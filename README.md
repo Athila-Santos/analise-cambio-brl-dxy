@@ -16,19 +16,19 @@ Esta seção foca no desempenho histórico do Real (`BRLUSD=X`), analisando vola
 
 Para uma comparação justa, os dados de todos os anos foram filtrados para incluir apenas o período de 1º de Janeiro até o dia atual do ano que a análise foi realizada (12 de Novembro).
 
-![Volatilidade e Retorno YTD](results\post1_bars.png)
+![Volatilidade e Retorno YTD](results/post1_bars.png)
 
 ### 1.2 Análise de Risco vs. Retorno (Jan-Nov)
 
 Este gráfico plota o Risco (Volatilidade Anualizada) contra o Retorno Acumulado no período. Vemos 2025 posicionado em relação aos anos de crise (alta vol) e anos de calmaria.
 
-![Risco vs Retorno](results\post1_scatter.png)
+![Risco vs Retorno](results/post1_scatter.png)
 
 ### 1.3 Trajetória dos Melhores, Piores e Ano Atual
 
 Usando dias de pregão sequenciais como eixo, podemos comparar a trajetória de 2025 (em azul) contra os 3 melhores (verde), os 3 piores (vermelho) e todos os outros anos (cinza).
 
-![Melhores e Piores Anos com Ano Atual](results\post1_best_worst_atual.png)
+![Melhores e Piores Anos com Ano Atual](results/post1_best_worst_atual.png)
 
 ---
 
